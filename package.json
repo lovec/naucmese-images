@@ -7,7 +7,7 @@
     "node": "0.12.x"
   },
   "dependencies": {
-    "image-resizer": "https://github.com/lovec/image-resizer/tarball/1ac66c1919ee119000489dd2d32743a78ba3ad45",
+    "image-resizer": "https://github.com/lovec/image-resizer/tarball/7ff44eb733896b06a4e47171159c9877f83c33cd",
     "express": "^4.9.7",
     "lodash": "~2.4.1",
     "chalk": "~1.0.0",
