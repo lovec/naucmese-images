@@ -2,6 +2,9 @@
 
 var express, app, ir, env, Img, streams;
 
+process.env.PORT = 3005;
+process.env.S3_BUCKET = 'nms-images-sk';
+
 express = require('express');
 app     = express();
 ir      = require('image-resizer');
